@@ -1,0 +1,4 @@
+repository "Game development project@phenix7@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
